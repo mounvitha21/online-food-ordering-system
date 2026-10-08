@@ -88,9 +88,3 @@ The SQLite database `food_ordering.db` will be created automatically when the ap
 
 The objective of this project is to demonstrate the implementation of a basic food ordering workflow using Python and a relational SQLite database.
 
-## 👨‍💻 Author
-
-**Souri Krishna**
-
-B.Tech – Computer Science and Business Systems  
-VIT-AP University
